@@ -1,0 +1,33 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Learn Full MERN-Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekkumar677/MERN-Stack.git"
+  },
+  "keywords": [
+    "http",
+    "express",
+    "server"
+  ],
+  "author": "Vivek Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekkumar677/MERN-Stack/issues"
+  },
+  "homepage": "https://github.com/vivekkumar677/MERN-Stack#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^12.0.3",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.0",
+    "mongoose": "^6.1.6",
+    "nodemon": "^2.0.15",
+    "react": "^17.0.2"
+  }
+}
